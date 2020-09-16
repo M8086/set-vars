@@ -1,4 +1,4 @@
-# This pwsh script will set environment variables for use with sdk
+# This pwsh script will set environment variables for use with Python Azure SDK
 # Mainly for Windows users
 
 # See the following url: 
