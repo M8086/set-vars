@@ -1,5 +1,5 @@
 # set-vars
-A powershell script to set your environment variables for the Azure SDK
+A powershell script to set your environment variables for the Python Azure SDK
 
 Mainly intended for Windows users.
 
